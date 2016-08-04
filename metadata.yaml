@@ -1,0 +1,36 @@
+_repo: Shakespeare-s-Sonnets_1041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Shakespeare's Sonnets are universally loved and much-quoted throughout
+  the world. First published in 1997 to much critical acclaim, the Sonnets has been
+  a consistent best-seller in the Arden Shakespeare series. Katherine Duncan-Jones
+  tackles the controversies and mysteries surrounding these beautiful poems head on,
+  and explores the issues of sexuality to be found in them, making this a truly modern
+  edition for today's readers and students. <br/> This revised edition has been updated
+  and corrected in the light of new scholarship and critical thinking since its first
+  publication.
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Sonnets, English'
+- !lcc 'PR'
+- GITenberg
+title: Shakespeare's Sonnets
+url: http://www.gutenberg.org/ebooks/1041
