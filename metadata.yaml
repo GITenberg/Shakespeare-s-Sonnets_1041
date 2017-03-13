@@ -1,5 +1,8 @@
 _repo: Shakespeare-s-Sonnets_1041
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -19,6 +22,8 @@ description: Shakespeare's Sonnets are universally loved and much-quoted through
   edition for today's readers and students. <br/> This revised edition has been updated
   and corrected in the light of new scholarship and critical thinking since its first
   publication.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1041#Shakespeare-s-Sonnets
 gutenberg_issued: '1997-09-01'
 gutenberg_type: Text
 identifiers:
