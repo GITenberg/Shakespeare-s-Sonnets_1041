@@ -48,7 +48,7 @@ by William Shakespeare
   That thereby beauty's rose might never die,
   But as the riper should by time decease,
   His tender heir might bear his memory:
-  But thou contracted to thine own bright eyes,
+  But thou, contracted to thine own bright eyes,
   Feed'st thy light's flame with self-substantial fuel,
   Making a famine where abundance lies,
   Thy self thy foe, to thy sweet self too cruel:
@@ -389,7 +389,7 @@ by William Shakespeare
   Stirr'd by a painted beauty to his verse,
   Who heaven itself for ornament doth use
   And every fair with his fair doth rehearse,
-  Making a couplement of proud compare'
+  Making a couplement of proud compare.
   With sun and moon, with earth and sea's rich gems,
   With April's first-born flowers, and all things rare,
   That heaven's air in this huge rondure hems.
@@ -465,8 +465,8 @@ by William Shakespeare
   After a thousand victories once foil'd,
   Is from the book of honour razed quite,
   And all the rest forgot for which he toil'd:
-  Then happy I, that love and am belov'd,
-  Where I may not remove nor be remov'd.
+    Then happy I, that love and am belov'd,
+    Where I may not remove nor be remov'd.
 
   XXVI
 
@@ -497,7 +497,7 @@ by William Shakespeare
   Looking on darkness which the blind do see:
   Save that my soul's imaginary sight
   Presents thy shadow to my sightless view,
-  Which, like a jewel (hung in ghastly night,
+  Which, like a jewel hung in ghastly night,
   Makes black night beauteous, and her old face new.
     Lo! thus, by day my limbs, by night my mind,
     For thee, and for myself, no quiet find.
